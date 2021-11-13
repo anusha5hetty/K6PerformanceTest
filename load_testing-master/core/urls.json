@@ -1,0 +1,10 @@
+{
+    "login": "https://{env}/login_sub.pa",
+    "project":{
+      "create": "https://{env}/com.innotas.service.json.entity.detail.content.NewProjectDetailsContent.pa?entityType=project&categoryId=1320597422&pid=0&ptid=0&templateParentId=0&action=update"
+      },
+    "task":{
+      "create": "https://{env}/com.innotas.service.json.project.task.ProjectTaskNew.pa"
+    }
+}
+    
